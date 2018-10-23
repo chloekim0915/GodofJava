@@ -1,3 +1,5 @@
+package Chapter5;
+
 public class Chapter5_Summary {
 
     /*1. 값을 할당할 때 사용하는 연산자의 기호는 무엇인가요?

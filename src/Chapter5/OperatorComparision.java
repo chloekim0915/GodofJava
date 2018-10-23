@@ -1,9 +1,11 @@
- /*등가비교연산자
- 모든 기본자료형과 참조자료형에서 사용가능
- 기본자료형은 같은종류끼리 비교가능
- char == interface
- double == interface
- boolean == boolean
+package Chapter5;
+
+/*등가비교연산자
+모든 기본자료형과 참조자료형에서 사용가능
+기본자료형은 같은종류끼리 비교가능
+char == interface
+double == interface
+boolean == boolean
 */
 public class OperatorComparision {
     public static void main(String[] args) {

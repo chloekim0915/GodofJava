@@ -1,4 +1,4 @@
-/*
+package Chapter5;/*
 삼항 연산자:변수=(boolean조건식)?true일때 값:false일때 값;
         변수에 값을 할당할때 사용
         ()안에는 boolean타입의 결과를 제공하는 조건식이 있어야함

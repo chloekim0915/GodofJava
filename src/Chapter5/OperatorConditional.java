@@ -1,4 +1,4 @@
-/*&& : AND결합 - 두개의 조건이 모두 true일때에만 true로 처리된다.class
+package Chapter5;/*&& : AND결합 - 두개의 조건이 모두 true일때에만 true로 처리된다.class
 || : OR결합 - 두개 중 하나만 true이면 true로 처리돈다.*/
 
 public class OperatorConditional {
